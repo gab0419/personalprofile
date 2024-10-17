@@ -1,0 +1,17 @@
+.about-container {
+    color: white; 
+    background-color: #000000; 
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(248, 248, 248, 0.95);  }
+  
+  .about-title {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .about-description {
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  

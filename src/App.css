@@ -1,0 +1,14 @@
+.app-container {
+    color: white; /* Set text color to white */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .navbar-brand, .nav-link {
+    color: white !important; /* Ensure that the navbar links and brand are white */
+  }
+  
+  .navbar-brand:hover, .nav-link:hover {
+    color: #1167d7 !important; /* Optional: Change link color on hover */
+  }
+  

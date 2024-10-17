@@ -1,0 +1,23 @@
+.skills-container {
+    color: white; /* Set text color to white */
+    background-color: #000000; 
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(248, 248, 248, 0.95);  
+  }
+  
+  .skills-title {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .skills-list-item {
+    background-color: #434141; 
+    color: white; /* White text for skill items */
+    border: none;
+  }
+  
+  .skills-list-item:hover {
+    background-color: #333; /* Darken background on hover */
+  }
+  

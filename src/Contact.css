@@ -1,0 +1,31 @@
+.contact-container {
+    color: white;
+    background-color: #000000; 
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(248, 248, 248, 0.95);
+  }
+  
+  .contact-form-label {
+    color: white; 
+  }
+  
+  .contact-form-control {
+    background-color: #434141; 
+    color: white; 
+    border: none;
+    box-shadow: none;
+  }
+  
+  .contact-button {
+    background-color: #147ad4;
+    border-color: #147ad4;
+    box-shadow: 0 4px 8px rgba(248, 248, 248, 0.95);
+
+  }
+  
+  
+  .contact-button:hover {
+    background-color: #0d5ba6; 
+  }
+  
